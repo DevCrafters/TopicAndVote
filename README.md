@@ -6,5 +6,5 @@
 > 개발자 milkyway0308의 디스코드 투표 봇입니다.
 
 ## 이 프로젝트는 토큰이 적혀있지 않습니다.
-## 실제로 서버를 여셔서 사용하시려면, https://discordapp.com/developers/applications/me에서
+## 실제로 서버를 여셔서 사용하시려면, https://discordapp.com/developers/applications/me 에서
 ## New App을 눌러 앱을 추가하신 후,생성된 토큰을 입력하셔야 합니다.
