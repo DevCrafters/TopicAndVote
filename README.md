@@ -8,3 +8,15 @@
 ## 이 프로젝트는 토큰이 적혀있지 않습니다.
 ## 실제로 서버를 여셔서 사용하시려면, https://discordapp.com/developers/applications/me 에서
 ## New App을 눌러 앱을 추가하신 후,생성된 토큰을 입력하셔야 합니다.
+
+# English
+This is discord Korean vote bot.
+This project need IntelliJ Community Edition version over 2016.3.3.
+
+> Let's try some words,not a violence!
+> This bot is developer milkyway0308's discord voting bot.
+
+## This project not have Bot Token.
+## If you want to use this with own server,
+## You had to add New app at https://discordapp.com/developers/applications/me
+## and input the token.
